@@ -13,7 +13,7 @@
 
 In this Project, you'll be eased into the code base of a small Redux application. The application itself is just a counter with increment and decrement buttons.
 
-### Counter Project
+### Counter Project 
 
 * The increment button should increment the counter by 1.
 * Conversely, the decrement button should decrement the counter by 1. The aim of this project is to familiarize you with the overarching data flow pattern of Redux, as well as exposing you to how Redux is typically hooked up to a React application.
@@ -30,4 +30,4 @@ Take your time walking around the code base. There are lots of informative littl
 
 If you end up finishing quickly, you'll see there are a few Stretch Problem prompts at the top of the `Counter.js` component file. Feel free to take a stab at implementing those. Or, you could take a look at the awesome Redux documentation [here](http://redux.js.org/docs/basics/).
 
-Good luck and have fun!
+Good luck and have fun! Test!
