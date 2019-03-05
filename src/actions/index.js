@@ -1,3 +1,5 @@
+// import { decodeStream } from "iconv-lite";
+
 export const INCREMENT = 'INCREMENT';
 export const DECREMENT = 'DECREMENT';
 
@@ -10,9 +12,17 @@ export const DECREMENT = 'DECREMENT';
 // is left to the reducer(s).
 
 export const increment = () => {
+  console.log('increments to:', increment);
+  return {
+  type: INCREMENT
+  }
   // Fill in this function
 };
 
 export const decrement = () => {
+  console.log('decrements to:', decrement);
+  return {
+  type: DECREMENT
+  }
   // Fill in this function
 };
